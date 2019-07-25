@@ -83,3 +83,4 @@ There are a limited amount of spots available on the OpenFaaS Community Cluster.
 ## Getting help
 
 For help join #openfaas-cloud on the [OpenFaaS Slack workspace](https://docs.openfaas.com/community).
+# ofc
